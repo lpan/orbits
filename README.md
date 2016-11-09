@@ -1,2 +1,2 @@
-# babylon-starter
-BabylonJS boiplerplate with webpack, typescript and mocha/chai
+# Orbits
+3D solar system simulation with WebGL
